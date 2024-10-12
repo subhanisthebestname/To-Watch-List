@@ -104,3 +104,4 @@ function renderTasks(){
 function load(){
 	renderTasks()
 }
+//
